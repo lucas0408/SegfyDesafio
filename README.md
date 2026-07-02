@@ -14,7 +14,7 @@ API REST em **ASP.NET Core MVC (.NET 8)** para o cadastro e consulta de apólice
 Pré-requisito: [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0).
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/lucas0408/SegfyDesafio
 cd SegfyDesafio
 dotnet restore
 dotnet run --project src/Segfy.Api
